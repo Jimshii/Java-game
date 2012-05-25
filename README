@@ -8,14 +8,17 @@ The main language is java, and so far no other libraries other than the standard
 
 Current version is:
 
-Alpha v. 0.0.2
+Alpha v. 0.0.3
 
-Updates:
--Added character info
--Added shop button
--Added dungeon button
+Updates
+-Fixed new game bug to paint typewriter style
+-Added status updates for buttons
+-Added character creation
+-Button renovation
 
-Next update:
--Fix new game bug to paint typewriter style
--Add status updates for buttons
--Add character creation
+Next Update (0.0.4):
+-Implement the following:
+    -C Button -> Character
+    -I Button -> Inventory
+    -J Button -> Journal
+    -S Button -> Skills
