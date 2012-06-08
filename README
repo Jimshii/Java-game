@@ -8,17 +8,10 @@ The main language is java, and so far no other libraries other than the standard
 
 Current version is:
 
-Alpha v. 0.0.3
+Alpha v. 0.0.4
 
 Updates
--Fixed new game bug to paint typewriter style
--Added status updates for buttons
--Added character creation
--Button renovation
+-Added hotkeys using ctrl + letter
 
-Next Update (0.0.4):
--Implement the following:
-    -C Button -> Character
-    -I Button -> Inventory
-    -J Button -> Journal
-    -S Button -> Skills
+Next Update (0.0.5):
+-Save and load features!
